@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Train Station Distance</string>
+    <string name="preferences_file">Station Preference File</string>
+    <string name="generic_back">powrót</string>
+    <string name="alert_icon_content_description">Ostrzeżenie!</string>
+    <string name="alert_button_positive">Spróbuj ponownie!</string>
+    <string name="alter_title">Brak danych z dzisiaj!</string>
+    <string name="alert_button_negative">Wyjdź!</string>
+    <string name="main_default_info_message">Spróbuj znaleźć nową linię komunikacyjną!</string>
+    <string name="alert_message">Spróbuj ponownie połączyć się z internetem i zaktualizować dane z dzisiaj lub zamknij aplikację!</string>
+    <string name="main_journey_label_start">Aktualna Lokalizacja</string>
+    <string name="main_journey_hint_start">"Wybierz punkt początkowy "</string>
+    <string name="main_journey_label_end">Cel</string>
+    <string name="main_journey_hint_end">Wybierz punkt docelowy</string>
+    <string name="main_journey_button">Szukaj połączenia</string>
+    <string name="main_journey_title">Gdzie chcesz się udać?</string>
+    <string name="main_journey_subtitle">Odkrywaj nowe miejsca, zdobywaj nowe doświadczenia</string>
+    <string name="main_journey_schedule_title">Dzisiejsza Trasa</string>
+    <string name="main_distance_card_km">km</string>
+    <string name="list_search">Szukaj</string>
+</resources>

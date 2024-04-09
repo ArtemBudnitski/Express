@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Train Station Distance</string>
+    <string name="preferences_file">Station Preference File</string>
+    <string name="generic_back">back</string>
+    <string name="alert_icon_content_description">Warning!</string>
+    <string name="alert_button_positive">Try Again!</string>
+    <string name="alter_title">No data from today!</string>
+    <string name="alert_button_negative">Exit!</string>
+    <string name="main_default_info_message">Try to find a new commuter line!</string>
+    <string name="alert_message">Try again to connect to internet and update today\'s data ot close app!</string>
+    <string name="main_journey_label_start">Current Location</string>
+    <string name="main_journey_hint_start">"Choose a start point "</string>
+    <string name="main_journey_label_end">Destination</string>
+    <string name="main_journey_hint_end">Choose an end point</string>
+    <string name="main_journey_button">Search Commuter Line</string>
+    <string name="main_journey_title">Where do you want to go?</string>
+    <string name="main_journey_subtitle">Explore new place, Get new experience</string>
+    <string name="main_journey_schedule_title">Today\'s Trip</string>
+    <string name="main_distance_card_km">km</string>
+    <string name="list_search">Search</string>
+</resources>
