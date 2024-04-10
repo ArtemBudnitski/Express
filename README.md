@@ -14,8 +14,9 @@
 
 ## Użyte Technologie Zewnętrzne
 
-- API Express: Wykorzystano zewnętrzne API do uzyskania bieżących kursów walut.
+- API Express: Wykorzystano zewnętrzne API do uzyskania bieżących stacji kolejowych.
 - Baza Danych: Dane dotyczące kursów walut są przechowywane lokalnie w bazie danych za pomocą Room.
+- Firebase: Do testowania i analityki aplikacji
 
 ## Funkcje
 
@@ -37,8 +38,9 @@
 
 ## External Technologies Used
 
-- Express API: External API utilized for obtaining current currency exchange rates.
+- API Express: External APIs were utilized to obtain real-time train stations data.
 - Database: Currency exchange rate data is stored locally in a database using Room.
+- Firebase: Utilized for testing and app analytics.
 
 ## Features
 
