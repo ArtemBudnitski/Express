@@ -1,5 +1,7 @@
 package com.abudnitski.express.data.api
 
+
+@Suppress("PropertyName")
 data class StationNet(
     val id: Int,
     val name: String,
@@ -16,5 +18,3 @@ data class StationNet(
     val has_announcements: Boolean,
     val is_nearby_station_enabled: Boolean
 )
-
-

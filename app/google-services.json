@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410909403347",
+    "project_id": "express-a82f2",
+    "storage_bucket": "express-a82f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410909403347:android:2ac1b472bf2487e54a8c26",
+        "android_client_info": {
+          "package_name": "com.abudnitski.express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_mEjkxk4ApQQyITdHdkzz0_Duqi4cmZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -4,6 +4,7 @@ plugins {
     id("com.google.devtools.ksp")
     kotlin("kapt")
     id("com.google.dagger.hilt.android")
+    id("com.google.gms.google-services")
 }
 
 android {
@@ -53,6 +54,11 @@ dependencies {
     val room_version = "2.6.1"
     val mockk_version = "1.13.9"
     val coroutines_version = "1.7.1"
+
+    //firebase
+    implementation(platform("com.google.firebase:firebase-bom:32.8.0"))
+    implementation("com.google.firebase:firebase-analytics")
+
     //hilt
     kapt(libs.hilt.android.compiler)
     implementation("com.google.dagger:hilt-android:2.48")
