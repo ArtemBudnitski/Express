@@ -10,7 +10,7 @@
 ## Technologie
 
 - Język programowania: Kotlin.
-- Wykorzystane technologie: Android Jetpack (Compose, ViewModel, Kotlin Flow), Retrofit do komunikacji z API, Room do lokalnego przechowywania danych, Kotlin Coroutines do obsługi asynchroniczności.
+- Wykorzystane technologie: Android Jetpack (Compose, ViewModel), Retrofit do komunikacji z API, Room do lokalnego przechowywania danych, Kotlin Coroutines do obsługi asynchroniczności.
 
 ## Użyte Technologie Zewnętrzne
 
