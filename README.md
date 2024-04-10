@@ -1,4 +1,5 @@
 # Aplikacja Express PL
+- Android 9(SDK28)
 
 | Express Main Screen | Express List |
 | ---- | ---- |
@@ -8,7 +9,6 @@
 
 ## Technologie
 
-- Android 9(SDK28)
 - Język programowania: Kotlin.
 - Wykorzystane technologie: Android Jetpack (Compose, ViewModel, Kotlin Flow), Retrofit do komunikacji z API, Room do lokalnego przechowywania danych, Kotlin Coroutines do obsługi asynchroniczności.
 
@@ -29,6 +29,7 @@
   
 
 # Express Application ENG
+- Android 9(SDK28)
 
 ## Technologies
 
